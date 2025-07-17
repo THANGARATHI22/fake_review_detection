@@ -42,10 +42,10 @@ Fake reviews can mislead buyers and damage the reputation of online platforms. T
 ##  Run the cells in sequence to execute the pipeline
 ## 📥 Dataset
 This project uses a publicly available e-commerce review dataset.  
-You can [download it here]([(https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus)]) .
+You can [download it here]([https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus]) .
 
 ## 📧 Contact
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/thanga-rathi-m-b7100a270) or explore more of my work on GitHub!  
+Feel free to connect with me on LinkedIn:[www.linkedin.com/in/thanga-rathi-m-b7100a270] or explore more of my work on GitHub!  
 I’m always open to feedback, collaborations, and new learning opportunities.
 
 ---
