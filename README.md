@@ -21,12 +21,14 @@ Fake reviews can mislead buyers and damage the reputation of online platforms. T
 - Python
 - Jupyter Notebook
 - scikit-learn
-- NLTK / spaCy
-- pandas, NumPy, matplotlib, seaborn
+- NLTK 
+- pandas, matplotlib, seaborn
 
 ## 📂 Project Structure
 📁 Fake_Review_Detection_E-Commerce
+
 ├── Fake_Review_Detection_E-Commerce.ipynb
+
 └── README.md
 
 
@@ -37,7 +39,6 @@ Fake reviews can mislead buyers and damage the reputation of online platforms. T
 - Experiment with deep learning or BERT embedding
 - Apply to cross-domain datasets (multiple product categories)
 - Integration into web platforms for real-time analysis
-
 
 ##  Run the cells in sequence to execute the pipeline
 ## 📥 Dataset
